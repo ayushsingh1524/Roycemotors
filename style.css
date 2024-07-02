@@ -30,17 +30,16 @@ p, button, a, ::placeholder, li, input {
     font-weight: 500;
     color: #fafafa;
     text-align: center;
-    margin-top: 5px; /* Adjust top margin as needed */
-    font-size: 0.75rem;
+    margin-top: 10px;
 }
+
 h4 {
     font-family: 'Mulish', sans-serif;
     font-weight: 300;
     color: #bbbbbb;
-    font-size: 0.5rem; /* Smaller font size */
+    font-size: 0.75rem; /* Smaller font size */
     margin-left: 0.5rem; /* Space between title and subtitle */
     text-align: right; /* Align text to the right */
-    margin-top: 0.2rem; /* Adjust margin to position below the main title */
 }
 ::-webkit-scrollbar {
     background-color: #9ca3af33;
