@@ -30,9 +30,10 @@ p, button, a, ::placeholder, li, input {
     color: #fafafa;
     text-align: right; /* Align text to the right */
     margin-top: 0.2rem; /* Adjust top margin as needed */
-    font-size: 0.4rem; /* Make the font size smaller */
+    font-size: 0.3rem; /* Make the font size smaller */
+    line-height: 1rem; /* Adjust line height if needed */
+    transform: scale(0.8); /* Further reduce size using scaling */
 }
-
 h4 {
     font-family: 'Mulish', sans-serif;
     font-weight: 300;
