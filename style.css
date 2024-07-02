@@ -33,8 +33,9 @@ h4 {
     font-family: 'Mulish', sans-serif;
     font-weight: 300;
     color: #bbbbbb;
+    font-size: 0.75rem;
     margin-top: -5px;
-    text-align: left;
+    text-align: right;
 
 
 p, button, a, ::placeholder, li, input {
