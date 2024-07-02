@@ -25,14 +25,6 @@ h1, h2, h3, h4, h5, h6 {
 p, button, a, ::placeholder, li, input {
     font-family: 'Mulish', sans-serif;
 }
-.subtitle {
-    font-family: 'Mulish', sans-serif;
-    font-weight: 500;
-    color: #fafafa;
-    text-align: right;
-    margin-top: 10px;
-}
-
 h4 {
     font-family: 'Mulish', sans-serif;
     font-weight: 300;
