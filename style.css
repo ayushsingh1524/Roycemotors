@@ -25,6 +25,14 @@ h1, h2, h3, h4, h5, h6 {
 p, button, a, ::placeholder, li, input {
     font-family: 'Mulish', sans-serif;
 }
+.subtitle {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+    color: #fafafa;
+    text-align: center;
+    margin-top: 5px; /* Adjust top margin as needed */
+    font-size: 0.75rem;
+}
 h4 {
     font-family: 'Mulish', sans-serif;
     font-weight: 300;
@@ -34,7 +42,6 @@ h4 {
     text-align: right; /* Align text to the right */
     margin-top: 0.2rem; /* Adjust margin to position below the main title */
 }
-
 ::-webkit-scrollbar {
     background-color: #9ca3af33;
     width: 7px;
