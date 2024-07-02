@@ -21,6 +21,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Hepta Slab', serif;
 }
+p, button, a, ::placeholder, li, input {
+    font-family: 'Mulish', sans-serif;
+}
 .subtitle {
     font-family: 'Mulish', sans-serif;
     font-weight: 500;
@@ -34,12 +37,6 @@ h4 {
     font-weight: 300;
     color: #bbbbbb;
     font-size: 0.75rem; /* Smaller font size */
-    margin-left: 0.5rem; /* Space between title and subtitle */
-    text-align: right; /* Align text to the right */
-}
-
-p, button, a, ::placeholder, li, input {
-    font-family: 'Mulish', sans-serif;
 }
 
 ::-webkit-scrollbar {
