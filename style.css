@@ -22,6 +22,9 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Hepta Slab', serif;
 }
 
+p, button, a, ::placeholder, li, input {
+    font-family: 'Mulish', sans-serif;
+}
 .subtitle {
     font-family: 'Mulish', sans-serif;
     font-weight: 500;
@@ -37,10 +40,7 @@ h4 {
     margin-left: 0.5rem;
     margin-top: -5px;
     text-align: right;
-
-
-p, button, a, ::placeholder, li, input {
-    font-family: 'Mulish', sans-serif;
+    margin-top: 0.2rem;
 }
 
 ::-webkit-scrollbar {
